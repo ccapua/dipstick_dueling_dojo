@@ -1,6 +1,6 @@
 # Dipstick Dueling Dojo - No RDM - [D.C. 128 tick]
 
-<a href="https://discord.gg/MjZZpAhJWh">Dipstick Dueling Dojo Discord</a>
+[Dipstick Dueling Dojo Discord](https://discord.gg/MjZZpAhJWh)
 
 **Da Rulez**
 * If you are caught behaving like an egregiously offensive ass would behave (in the opinion of an admin), you will be kicked. You can consider the kick a courtesy warning.
