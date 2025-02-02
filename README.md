@@ -7,4 +7,4 @@
 * If you continue being an egregiously offensive ass (in the opinion of an admin, and the admin sees it fitting to ban you), you will be banned.
 * Otherwise have fun and try to do the right thing. 
 
-![Straighten Up](https://imgur.com/a/PenBAxZ.png)
+![Straighten Up](/Mordhau/Saved/Images/PenBAxZ.png)
